@@ -1,0 +1,3 @@
+couchbase
+psycopg2
+pyyaml
