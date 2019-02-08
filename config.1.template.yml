@@ -1,0 +1,24 @@
+---
+# global
+records_to_read: 700000
+
+
+# postgres connection
+pg_db: "mdb_dev"
+pg_user: "CHANGE_ME"
+pg_host: "CHANGE_ME"
+pg_pass: ""
+pg_string: |
+  XXX
+  XXX
+  XXX
+
+
+#couchbase connection
+cb_bucket: test3
+cb_host: "CHANGE_ME"
+cb_user: Administrator
+cb_pass: "CHANGE_ME"
+
+# api connection
+api_url: "http://CHANGEME/api/v1/showformat"
